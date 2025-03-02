@@ -18,7 +18,7 @@ namespace prjPastaFactory
             return "Vodka Sauce";
         }
 
-        public string getProtein()
+        public string getMeat()
         {
             return "Pancetta";
         }

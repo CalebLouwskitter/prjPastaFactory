@@ -18,7 +18,7 @@ namespace prjPastaFactory
             return "Alfredo, Cream, Parmesan";
         }
 
-        public string getProtein()
+        public string getMeat()
         {
             return "Chicken";
         }

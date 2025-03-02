@@ -18,7 +18,7 @@ namespace prjPastaFactory
             return "Olive Oil and Garlic";
         }
 
-        public string getProtein()
+        public string getMeat()
         {
             return "None";
         }

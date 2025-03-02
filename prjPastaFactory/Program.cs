@@ -9,7 +9,7 @@
             String selectedPasta = Console.ReadLine();
             IPasta pasta = factory.getPasta(selectedPasta);
             Console.WriteLine("{0} noodles with {1} and {2}",
-                pasta.getNoodle(), pasta.getProtein(),
+                pasta.getNoodle(), pasta.getMeat(),
                 pasta.getSauce());
         }
     }

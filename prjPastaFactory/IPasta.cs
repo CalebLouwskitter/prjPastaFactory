@@ -9,7 +9,7 @@ namespace prjPastaFactory
     public interface IPasta
     {
         String getNoodle();
-        String getProtein();
+        String getMeat();
         String getSauce();
     }
 }

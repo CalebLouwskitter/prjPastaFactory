@@ -18,7 +18,7 @@ namespace prjPastaFactory
             return "Marinara";
         }
 
-        public string getProtein()
+        public string getMeat()
         {
             return "Meatballs";
         }
